@@ -33,7 +33,7 @@ function show() {
 
     app.getView().render('account/accountoverview');
 }
-
+/* Amina Tariq */
 /**
  * Clears the profile form and copies customer profile information from the customer global variable
  * to the form. Gets a ContentModel object that wraps the myaccount-personaldata content asset, and updates the page
